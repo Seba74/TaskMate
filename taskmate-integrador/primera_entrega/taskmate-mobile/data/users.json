@@ -1,0 +1,87 @@
+[
+    {
+    "id": 1,
+    "firstname": "John",
+    "lastname": "Doe",
+    "email": "johndoe@example.com",
+    "birthDate": "1973-01-22",
+    "username": "johndoe",
+    "password": "password",
+    "address": {
+    "street": "123 Main Street",
+    "suite": "Apt. 4",
+    "city": "Anytown",
+    "zipcode": "12345-6789",
+    "geo": {
+    "lat": "42.1234",
+    "lng": "-71.2345"
+    }
+    },
+    "phone": "(555) 555-1234",
+    "website": "www.johndoe.com"
+    },
+    {
+        "id": 2,
+        "firstname": "alex",
+        "lastname": "Doe",
+        "email": "alexdoe@example.com",
+        "birthDate": "1973-01-22",
+        "username": "alexdoe",
+        "password": "password",
+        "address": {
+        "street": "123 Main Street",
+        "suite": "Apt. 4",
+        "city": "Anytown",
+        "zipcode": "12345-6789",
+        "geo": {
+        "lat": "42.1234",
+        "lng": "-71.2345"
+        }
+        },
+        "phone": "(555) 555-1234",
+        "website": "www.alexdoe.com"
+    },
+    {
+        "id": 3,
+        "firstname": "leo",
+        "lastname": "Doe",
+        "email": "leodoe@example.com",
+        "birthDate": "1973-01-22",
+        "username": "leodoe",
+        "password": "password",
+        "address": {
+        "street": "123 Main Street",
+        "suite": "Apt. 4",
+        "city": "Anytown",
+        "zipcode": "12345-6789",
+        "geo": {
+        "lat": "42.1234",
+        "lng": "-71.2345"
+        }
+        },
+        "phone": "(555) 555-1234",
+        "website": "www.leodoe.com"
+    },
+    {
+        "id": 4,
+        "firstname": "adri",
+        "lastname": "Doe",
+        "email": "adridoe@example.com",
+        "birthDate": "1973-01-22",
+        "username": "adridoe",
+        "password": "password",
+        "address": {
+        "street": "123 Main Street",
+        "suite": "Apt. 4",
+        "city": "Anytown",
+        "zipcode": "12345-6789",
+        "geo": {
+        "lat": "42.1234",
+        "lng": "-71.2345"
+        }
+        },
+        "phone": "(555) 555-1234",
+        "website": "www.adridoe.com"
+    }
+
+]
